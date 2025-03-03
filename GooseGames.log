@@ -1,0 +1,45 @@
+2025-03-03 22:01:53,315 gfgf.Goose INFO gfgf threw 1
+2025-03-03 22:01:53,316 gfgf.Goose INFO gfgf's goose is now on square 1
+2025-03-03 22:01:54,217 dsfg.Goose INFO dsfg threw 6
+2025-03-03 22:01:54,217 dsfg.Goose INFO dsfg's goose is now on square 6
+2025-03-03 22:01:55,024 gfgf.Goose INFO gfgf threw 5
+2025-03-03 22:01:55,024 gfgf.Goose INFO gfgf's goose is now on square 6
+2025-03-03 22:01:55,024 Turn handler INFO gfgf's goose bumped dsfg's goose off the board
+2025-03-03 22:01:55,024 Turn handler INFO dsfg's goose has been set back to start
+2025-03-03 22:01:55,024 dsfg.Goose INFO dsfg's (255, 0, 0) goose is now on square 0
+2025-03-03 22:01:55,528 dsfg.Goose INFO dsfg threw 6
+2025-03-03 22:01:55,528 dsfg.Goose INFO dsfg's goose is now on square 6
+2025-03-03 22:01:55,528 Turn handler INFO dsfg's goose bumped gfgf's goose off the board
+2025-03-03 22:01:55,528 Turn handler INFO gfgf's goose has been set back to start
+2025-03-03 22:01:55,528 gfgf.Goose INFO gfgf's (0, 0, 255) goose is now on square 0
+2025-03-03 22:01:56,183 gfgf.Goose INFO gfgf threw 6
+2025-03-03 22:01:56,183 gfgf.Goose INFO gfgf's goose is now on square 6
+2025-03-03 22:01:56,183 Turn handler INFO gfgf's goose bumped dsfg's goose off the board
+2025-03-03 22:01:56,183 Turn handler INFO dsfg's goose has been set back to start
+2025-03-03 22:01:56,183 dsfg.Goose INFO dsfg's (255, 0, 0) goose is now on square 0
+2025-03-03 22:01:56,871 dsfg.Goose INFO dsfg threw 1
+2025-03-03 22:01:56,871 dsfg.Goose INFO dsfg's goose is now on square 1
+2025-03-03 22:01:57,574 gfgf.Goose INFO gfgf threw 6
+2025-03-03 22:01:57,574 gfgf.Goose INFO gfgf's goose is now on square 12
+2025-03-03 22:01:57,574 Turn handler INFO gfgf has to wait this turn
+2025-03-03 22:01:57,575 Turn handler INFO dsfg's goose has now two turns
+2025-03-03 22:01:57,575 dsfg.Goose INFO dsfg threw 3
+2025-03-03 22:01:57,575 dsfg.Goose INFO dsfg's goose is now on square 4
+2025-03-03 22:01:57,575 Turn handler INFO dsfg is moved to another place
+2025-03-03 22:01:57,575 dsfg.Goose INFO dsfg's (255, 0, 0) goose is now on square 6
+2025-03-03 22:02:04,034 dsfg.Goose INFO dsfg threw 1
+2025-03-03 22:02:04,034 dsfg.Goose INFO dsfg's goose is now on square 7
+2025-03-03 22:02:04,516 gfgf.Goose INFO gfgf threw 1
+2025-03-03 22:02:04,516 gfgf.Goose INFO gfgf's goose is now on square 13
+2025-03-03 22:02:04,516 Turn handler INFO gfgf is moved to another place
+2025-03-03 22:02:04,516 gfgf.Goose INFO gfgf's (0, 0, 255) goose is now on square 14
+2025-03-03 22:02:13,633 dsfg.Goose INFO dsfg threw 5
+2025-03-03 22:02:13,633 dsfg.Goose INFO dsfg's goose is now on square 12
+2025-03-03 22:02:13,633 Turn handler INFO dsfg has to wait this turn
+2025-03-03 22:02:13,633 Turn handler INFO gfgf's goose has now two turns
+2025-03-03 22:02:13,633 gfgf.Goose INFO gfgf threw 3
+2025-03-03 22:02:13,633 gfgf.Goose INFO gfgf's goose is now on square 17
+2025-03-03 22:02:17,537 gfgf.Goose INFO gfgf threw 6
+2025-03-03 22:02:17,537 gfgf.Goose INFO gfgf's goose is now on square 23
+2025-03-03 22:02:17,537 Turn handler INFO gfgf is moved to another place
+2025-03-03 22:02:17,537 gfgf.Goose INFO gfgf's (0, 0, 255) goose is now on square 16

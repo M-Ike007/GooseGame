@@ -1,0 +1,3 @@
+This code cannot be used or distributed by anyone else than WUR employees
+
+authors: Britt Thuis, Maarten Bots, Mees Ike, Yasmine van den Boogaard
